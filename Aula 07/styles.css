@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+}
+#main {
+  background-color: #fdd;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.cor-vermelho {
+  color: rgba(212, 0, 0)
+}
+
+.cor-azul{
+  color: #140088;
+}
+
+.secao {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.secao h2 {
+  font-size: 18px;
+}
+
+.exemplo {
+  font-size: 14px;
+}
